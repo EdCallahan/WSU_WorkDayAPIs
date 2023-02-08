@@ -59,7 +59,7 @@ go
 
 --
 -- Read the (maybe huge) XML file we generated from Powershell and insert it into a SQL table
--- This file shoudl be from the Get-Workers API called with Include_Organizations set to true
+-- This file should be from the Get-Workers API called with Include_Organizations set to true
 --
 -- Folder specifications for file location refer to the SQL Server, not your workstation
 --
